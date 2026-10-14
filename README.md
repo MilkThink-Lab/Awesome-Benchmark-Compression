@@ -41,6 +41,9 @@ Reuse earlier models' evaluation results to select items or estimate the results
 
 | Paper | Venue | Domain | Code |
 | :--- | :--- | :--- | :---: |
+| [Zipbench: Low-Cost Framework for Compressing Comprehensive Benchmarks of Large Language Models](https://arxiv.org/abs/2609.12475) | EMNLP 2026 Oral | General, Multimodal, Agent | [GitHub](https://github.com/MilkThink-Lab/ZipBench) |
+| [MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models](https://aclanthology.org/2025.acl-long.560/) | ACL 2025 Outstanding Paper | General, QA, Retrieval | [GitHub](https://github.com/MilkThink-Lab/MiniLongBench) |
+| [SubLIME: Subset Selection via Rank Correlation Prediction for Data-Efficient LLM Evaluation](https://aclanthology.org/2025.acl-long.1477/) | ACL 2025 Best Theme Paper | General, QA, Reasoning, Math | — |
 | [Active Testing of Large Language Models via Approximate Neyman Allocation](https://arxiv.org/abs/2605.10075) | arXiv 2026 | General, QA, Reasoning, Multimodal | — |
 | [CollabEval: Statistically Efficient Collaborative Model Evaluation via Matrix Completion](https://arxiv.org/abs/2607.05046) | arXiv 2026 | General, QA, Code, Human Eval | — |
 | [DatBench: Discriminative, Faithful, and Efficient VLM Evaluations](https://arxiv.org/abs/2601.02316) | arXiv 2026 | Multimodal, VQA | [GitHub](https://github.com/datologyai/DatBench) |
@@ -60,10 +63,8 @@ Reuse earlier models' evaluation results to select items or estimate the results
 | [How Benchmark Prediction from Fewer Data Misses the Mark](https://papers.nips.cc/paper_files/paper/2025/hash/c57bacb5ea621582235c54ce2a83136d-Abstract-Conference.html) | NeurIPS 2025 | General, QA, Reasoning | [GitHub](https://github.com/socialfoundations/benchmark-prediction) |
 | [Improving Model Evaluation using SMART Filtering of Benchmark Datasets](https://aclanthology.org/2025.naacl-long.235/) | NAACL 2025 | General, QA, Reasoning | [GitHub](https://github.com/facebookresearch/ResponsibleNLP/tree/main/SMART-Filtering) |
 | [Jailbreak Distillation: Renewable Safety Benchmarking](https://aclanthology.org/2025.findings-emnlp.1366/) | EMNLP Findings 2025 | Safety, Security | — |
-| [MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models](https://aclanthology.org/2025.acl-long.560/) | ACL 2025 | General, QA, Retrieval | [GitHub](https://github.com/MilkThink-Lab/MiniLongBench) |
 | [Psychometrically derived 60-question benchmarks: Substantial efficiencies and the possibility of human-AI comparisons](https://doi.org/10.1016/j.intell.2025.101922) | Intelligence 2025 | General, QA, Reasoning, Math | — |
 | [Scaling Up Active Testing to Large Language Models](https://papers.nips.cc/paper_files/paper/2025/hash/fdb11be1acf5e3724737dd585e590146-Abstract-Conference.html) | NeurIPS 2025 | General, QA, Reasoning | [GitHub](https://github.com/gabrielleberrada/scaling-up-active-testing) |
-| [SubLIME: Subset Selection via Rank Correlation Prediction for Data-Efficient LLM Evaluation](https://aclanthology.org/2025.acl-long.1477/) | ACL 2025 | General, QA, Reasoning, Math | — |
 | [Towards Optimal Evaluation Efficiency for Large Language Models](https://aclanthology.org/2025.emnlp-main.716/) | EMNLP 2025 | General, QA, Reasoning, Math | — |
 | [Anchor Points: Benchmarking Models with Much Fewer Examples](https://aclanthology.org/2024.eacl-long.95/) | EACL 2024 | General, QA, Reasoning | [GitHub](https://github.com/rvivek3/AnchorPoints) |
 | [tinyBenchmarks: evaluating LLMs with fewer examples](https://proceedings.mlr.press/v235/maia-polo24a.html) | ICML 2024 | General, QA, Reasoning, Math | [GitHub](https://github.com/felipemaiapolo/tinyBenchmarks) |
