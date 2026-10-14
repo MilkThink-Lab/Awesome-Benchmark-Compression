@@ -12,7 +12,7 @@ A curated list of awesome works in benchmark compression for efficient LLM evalu
 
 | Paper | Conference/Journal | Code |
 | :--- | :--- | :---: |
-| [Are we testing too much](https://arxiv.org/abs/2610.18248) | arXiv 2026 | [Code](https://github.com/MilkThink-Lab/Awesome-Benchmark-Compression) |
+| [Are We Testing Too Much? A Survey of Benchmark Compression for Efficient Evaluation of Large Language Models](https://arxiv.org/abs/2610.18248) | arXiv 2026 | [Code](https://github.com/MilkThink-Lab/Awesome-Benchmark-Compression) |
 
 ## Single-Benchmark Compression
 
